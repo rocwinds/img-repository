@@ -58,10 +58,10 @@ https://cdn.jsdelivr.net/gh/用户名/仓库名@分支名
 好的，在此就配置完成。图片链接形式如下：
 
 ```html
-https://cdn.jsdelivr.net/gh/rocwinds/img-repository@master/img/图片文件
+https://cdn.jsdelivr.net/gh/rocwinds/img-repository/master/img/图片文件
 ```
 
-![img](https://cdn.jsdelivr.net/gh/joeyliu6/Blogger@master/static_files/iljw/img/large/20190512155938.png)
+![img](https://cdn.jsdelivr.net/gh/joeyliu6/Blogger/master/static_files/iljw/img/large/20190512155938.png)
 
 可以通过 PicGo 方便地上传图片了，它支持拖拽、点击、剪贴板上传，上传后，图片链接直接复制的你的剪贴板中。
 
